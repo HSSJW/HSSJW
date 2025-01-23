@@ -3,7 +3,7 @@
 ---
 ## Activity
 
-- 2020.03 ~ 2026.02 : 한성대학교 컴퓨터공학부 재학
+- 2020.03 ~  : 한성대학교 컴퓨터공학부 재학
 - 2024.03 ~ 2025.02 : University MakeUs Challenge - Server(Node.js/Spring Boot)
 ## Project
 - Ne(o)rdinary Hackathon back-end : https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server
