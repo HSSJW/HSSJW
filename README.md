@@ -1,5 +1,11 @@
 ## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSSJW)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSSJW)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okqkfkfk)](https://solved.ac/okqkfkfk/)  
 <!--
 **HSSJW/HSSJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
