@@ -6,7 +6,8 @@
 ## Activity
 
 - 2020.03 ~  : 한성대학교 컴퓨터공학부 재학
-- 2024.03 ~ 2025.02 : University MakeUs Challenge - Server(Node.js/Spring Boot)
+- 2024.03 ~ 2024.08 : University MakeUs Challenge - Server(Node.js)
+- 2024.09 ~ 2025.02 : University MakeUs Challenge - Server(Spring Boot)
 ## Project
 #### 동아리
 - UMC
