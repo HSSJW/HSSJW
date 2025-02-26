@@ -24,7 +24,7 @@
   - 고급모바일프로그래밍 : https://github.com/Damoyeo/Damoyeo.git
  
 ## 🏆Awards
-- 7th University Makeus Challenge Demo Day 우수상
+- 7th University Makeus Challenge Demo Day 우수상 - GrowIt
 
   
 ---
