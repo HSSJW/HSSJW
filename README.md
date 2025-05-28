@@ -20,8 +20,8 @@
 
 #### 한성대학교
 - 3-2
-  - 네트워크트로그래밍 : https://github.com/HSSJW/NetworkProgramming-MapleStory.git
-  - 고급모바일프로그래밍 : https://github.com/Damoyeo/Damoyeo.git
+  - 네트워크 프로그래밍 : https://github.com/HSSJW/NetworkProgramming-MapleStory.git
+  - 고급모바일 프로그래밍 : https://github.com/Damoyeo/Damoyeo.git
  
 ## 🏆Awards
 - 7th University Makeus Challenge Demo Day 우수상 - GrowIt
