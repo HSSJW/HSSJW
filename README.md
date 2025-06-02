@@ -30,7 +30,7 @@
 
   
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSSJW&langs_count=10&layout=donut&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSSJW&layout=donut&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
 [![Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSSJW&show_icons=true&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
