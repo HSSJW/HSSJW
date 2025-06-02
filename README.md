@@ -23,7 +23,7 @@
   - 네트워크 프로그래밍 : https://github.com/HSSJW/NetworkProgramming-MapleStory.git
   - 고급모바일 프로그래밍 : https://github.com/Damoyeo/Damoyeo.git
 - 4-1
-  - 캡스톤 디자인 : [https://github.com/PoseSync](https://github.com/PoseSync/PoseSync-Flask)
+  - 캡스톤 디자인 : https://github.com/PoseSync/PoseSync-Flask.git
  
 ## 🏆Awards
 - 7th University Makeus Challenge Demo Day 우수상 - GrowIt
