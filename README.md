@@ -11,8 +11,9 @@
 ## Project
 #### 동아리
 - UMC
+  - GrowIt Back-End : https://github.com/7-umc-GrowIT/GrowIT-SpringBoot.git 📌📌 
   - Ne(o)rdinary Hackathon back-end : https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server
-  - GrowIt Back-End : https://github.com/7-umc-GrowIT/GrowIT-SpringBoot.git
+
  
 - 한성대학교 창업동아리
   - ElderCare : https://github.com/Team-ElderCare/ElderCare-SpringBoot.git
