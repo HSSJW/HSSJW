@@ -12,7 +12,7 @@
 ## Project
 #### 동아리
 - UMC
-  - 📌 GrowIt Back-End : https://github.com/7-umc-GrowIT/GrowIT-SpringBoot.git 📌
+  - 📌 GrowIt Back-End (2025 서울시 일자리 박람회 참가) : https://github.com/7-umc-GrowIT/GrowIT-SpringBoot.git 📌
     - 다운로드 링크 : https://apps.apple.com/kr/app/%EA%B7%B8%EB%A1%9C%EC%9A%B0%EC%9E%87/id6752010938
   - Ne(o)rdinary Hackathon back-end : https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server
 
