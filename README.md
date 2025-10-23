@@ -8,7 +8,7 @@
 - 2020.03 ~  : `한성대학교` 컴퓨터공학부 재학
 - 2024.03 ~ 2024.08 : `University MakeUs Challenge` - Server(Node.js)
 - 2024.09 ~ 2025.02 : `University MakeUs Challenge` - Server(Spring Boot)
-- 2025.09 ~  : `고려대학교 산학협력단` - 고성능/대용량 트랜잭션 확장성 보장 기술개발 과제 참여 
+- 2025.09 ~  : `고려대학교 산학협력단` - (국가 R&D)고성능/대용량 트랜잭션 확장성 보장 기술개발 과제 참여연구자 자격으로 참여 
 ## Project
 #### 동아리
 - UMC
@@ -20,6 +20,10 @@
 - 한성대학교 창업동아리
   - ElderCare : https://github.com/Team-ElderCare/ElderCare-SpringBoot.git
 
+#### 산학협력 프로젝트
+- 📌 AnamWallet 📌
+  - Client : https://github.com/anam-145/v2-anamwallet.git
+  - BackEnd(SpringBoot) : https://github.com/anam-145/anam-ai-backend.git
 
 #### 한성대학교
 - 3-2
