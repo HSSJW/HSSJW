@@ -20,10 +20,15 @@
 - 한성대학교 창업동아리
   - ElderCare : https://github.com/Team-ElderCare/ElderCare-SpringBoot.git
 
-#### 산학협력 프로젝트
+#### 안암145 국가 R&D 연구과제 학부인턴(블록체인 지갑 AI 에이전트)
 - 📌 AnamWallet 📌
   - Client : https://github.com/anam-145/v2-anamwallet.git
   - BackEnd(SpringBoot) : https://github.com/anam-145/anam-ai-backend.git
+ 
+#### 싱가포르 산학협력 해커톤
+- StockPlay
+  - Client :  https://github.com/Omiljomil-five/StockPlay-FE.git
+  - BackEnd : https://github.com/Omiljomil-five/StockPlay-BE.git
 
 #### 한성대학교
 - 3-2
