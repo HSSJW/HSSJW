@@ -25,7 +25,7 @@
   - Client : https://github.com/anam-145/v2-anamwallet.git
   - BackEnd(SpringBoot) : https://github.com/anam-145/anam-ai-backend.git
  
-#### 싱가포르 산학협력 해커톤
+#### 싱가포르 산학협력 해커톤(1등 수상)
 - StockPlay
   - Client :  https://github.com/Omiljomil-five/StockPlay-FE.git
   - BackEnd : https://github.com/Omiljomil-five/StockPlay-BE.git
