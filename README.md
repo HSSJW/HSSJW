@@ -9,7 +9,7 @@
 - 2024.03 ~ 2024.08 : `University MakeUs Challenge` - Server(Node.js)
 - 2024.09 ~ 2025.02 : `University MakeUs Challenge` - Server(Spring Boot)
 - 2025.09 ~ 2026.02 : `고려대학교 산학협력단 (학부인턴)` - (국가 R&D)고성능/대용량 트랜잭션 확장성 보장 기술개발 과제 
-- 2026.01 ~ 운영 중 : `AI 복약도우미 마이약(MyYak)` - 기획, 설계, 개발, 유지보수 (https://play.google.com/store/apps/details?id=com.myyak.app)
+- 2026.01 ~ 운영 중 : `AI 복약도우미 마이약(MyYak)` - 기획, 설계, 개발, 유지보수 | [⬇️다운로드 링크⬇️](https://play.google.com/store/apps/details?id=com.myyak.app)
 - 2026.04 ~ 2026.05 : `(주)Sparrow (인턴)` - 오픈소스(컴포넌트) 분석 파이프라인 개발 
 - 2026.06 ~ 개발 중 : `한국전자기술연구원(KETI) 외주 개발` - Quic Protocol 기반 무중단 데이터 스트리밍 AI 관제시스템 PoC 개발
 ## Project
