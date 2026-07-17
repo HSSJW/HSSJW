@@ -19,14 +19,9 @@
     - 다운로드 링크 : https://apps.apple.com/kr/app/%EA%B7%B8%EB%A1%9C%EC%9A%B0%EC%9E%87/id6752010938
   - Ne(o)rdinary Hackathon back-end : https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server
 
- 
-- 한성대학교 창업동아리
-  - ElderCare : https://github.com/Team-ElderCare/ElderCare-SpringBoot.git
-
 #### 안암145 국가 R&D 연구과제 학부인턴(블록체인 지갑 AI 에이전트)
 - 📌 AnamWallet 📌
   - AI Guide  
-    - Client : https://github.com/anam-145/v2-anamwallet.git
     - Backend(SpringBoot) : https://github.com/anam-145/anam-ai-backend.git
   - AI Agent
     - Private Repository 
