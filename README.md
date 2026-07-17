@@ -13,6 +13,12 @@
 - 2026.04 ~ 2026.05 : `(주)Sparrow (인턴)` - 오픈소스(컴포넌트) 분석 파이프라인 개발 
 - 2026.06 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: `한국전자기술연구원(KETI) 외주 개발` - Quic Protocol 기반 무중단 데이터 스트리밍 AI 관제시스템 PoC 개발
 ## Project
+
+#### 기획 & 출시 & 운영
+- MyYak [⬇️다운로드 링크⬇️](https://play.google.com/store/apps/details?id=com.myyak.app)
+  - Backend(Springboot) : https://github.com/myYack-team/BackEnd-SpringBoot.git
+  - Client(ReactNative) : https://github.com/myYack-team/Client-ReactNative.git
+
 #### 동아리
 - UMC
   - 📌 GrowIt Back-End (2025 서울시 일자리 박람회 참가) : https://github.com/7-umc-GrowIT/GrowIT-SpringBoot.git 📌
