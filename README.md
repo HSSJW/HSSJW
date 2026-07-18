@@ -5,7 +5,7 @@
 ---
 ## Activity
 
-- 2020.03 ~ 2026.02 : `한성대학교` 컴퓨터공학부 졸업
+- 2020.03 ~ 2026.02 : `한성대학교` 컴퓨터공학부 졸업 (4.05 / 4.5)
 - 2024.03 ~ 2024.08 : `University MakeUs Challenge` - Server(Node.js)
 - 2024.09 ~ 2025.02 : `University MakeUs Challenge` - Server(Spring Boot)
 - 2025.09 ~ 2026.02 : `고려대학교 산학협력단 (학부인턴)` - (국가 R&D)고성능/대용량 트랜잭션 확장성 보장 기술개발 과제 
