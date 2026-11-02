@@ -28,7 +28,7 @@
 #### 안암145 국가 R&D 연구과제 학부인턴(블록체인 지갑 AI 에이전트)
 - 📌 AnamWallet 📌
   - AI Guide  
-    - Backend(SpringBoot) : https://github.com/anam-145/anam-ai-backend.git
+    - Backend(SpringBoot) : https://github.com/anam-145/anam-ai-backend.git (해당 기관에서 Private으로 전환하였습니다.)
   - AI Agent
     - Private Repository 
 #### 싱가포르 산학협력 해커톤(1등 수상)
